@@ -13,5 +13,5 @@ Android Studio - The editor of choice.
 OpenWeather API - Public API to retrieve weather data for cities.
 
 Cons:
-Doesn't show any suggestion while typing in the search box
-Search button doesn't work by pressing enter!
+1-Doesn't show any suggestion while typing in the search box
+2-Search button doesn't work by pressing enter!
