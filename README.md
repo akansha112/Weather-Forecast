@@ -8,10 +8,10 @@ Provides details about the temperature and weather condition.
 
 Language Used: Java
 
-Build With:
-Android Studio - The editor of choice.
+Build With:                                                                         
+Android Studio - The editor of choice.                                                                                                                                  
 OpenWeather API - Public API to retrieve weather data for cities.
 
-Cons:
-1-Doesn't show any suggestion while typing in the search box
+Cons:                                                                                                                                                                     
+1-Doesn't show any suggestion while typing in the search box                                                                                                             
 2-Search button doesn't work by pressing enter!
