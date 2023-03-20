@@ -1,3 +1,4 @@
+![video_image-cT6G7bio_](https://user-images.githubusercontent.com/95122024/226435691-7693aa31-8e22-458c-a9b4-408e0eb16786.jpeg)
 Description
 This is a simple weather forecast web app that uses some APIs to fetch forecast data from the OpenWeatherMap.
 This app will show you the complete weather forecast including temperature, humidity, sunrise, sunset, windspeed and many more with the help of a Rapid API.
