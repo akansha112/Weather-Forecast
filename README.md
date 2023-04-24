@@ -16,6 +16,11 @@ Cons:
 1-Doesn't show any suggestion while typing in the search box                                                                                                             
 2-Search button doesn't work by pressing enter!
 
+
+
+https://user-images.githubusercontent.com/95122024/234017666-1cd9dadd-ba54-40db-92f8-fab6d35123fb.mp4
+
+
 ![fotor_2023-3-21_0_18_37](https://user-images.githubusercontent.com/95122024/226437588-56c2ee94-b041-4192-b4d2-b22c064b5137.jpg)
 ![fotor_2023-3-21_0_22_7](https://user-images.githubusercontent.com/95122024/226438288-2632bb5b-b191-4b93-92cb-7d71a20d619c.jpg)
 ![fotor_2023-3-21_0_21_30](https://user-images.githubusercontent.com/95122024/226438293-b9f10f6b-cd46-482e-81d2-64dc75277e93.jpg)
